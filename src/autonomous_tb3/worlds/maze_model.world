@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<sdf version="1.6">
+  <world name="maze_model_world">
+    <!-- include the maze model -->
+    <include>
+      <uri>model://maze_model</uri>
+    </include>
+
+    <!-- add a ground plane so the robot has a surface to spawn on -->
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+
+    <!-- optional sun for lighting -->
+    <include>
+      <uri>model://sun</uri>
+    </include>
+  </world>
+</sdf>
