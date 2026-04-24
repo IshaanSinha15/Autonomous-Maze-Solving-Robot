@@ -145,7 +145,7 @@ This project uses a TurtleBot3 robot simulated in Gazebo, leveraging ROS2 for co
 ---
 
 ## Authors
-- [Your Name]
-
-## License
-[Specify your license here]
+- Ishaan Sinha
+- Ishika Raj
+- Tahir Shafiq 
+- Syed Kaifuddin
