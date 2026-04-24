@@ -81,7 +81,7 @@ def generate_launch_description():
     )
 
     delayed_spawn = TimerAction(
-        period=8.0,
+        period=15.0,
         actions=[
             IncludeLaunchDescription(
                 PythonLaunchDescriptionSource(
